@@ -1,0 +1,55 @@
+✅ Milestone 1 – To-Do: Fraud Detection Using Graphs
+1. Define the Project Topic
+- [ ] Decide which fraud detection problem we want to investigate
+- [ ] Check whether the problem can be represented effectively as a graph
+- [ ] Define a short and clear project title
+- [ ] Define the project objective in 2–4 sentences
+- [ ] Define the main research question, e.g. Can graph-based methods improve fraud detection compared with traditional machine learning methods?
+- [ ] Add all team members
+2. Select and Describe the Dataset
+- [ ] Find 2–3 potential datasets suitable for the selected fraud problem
+- [ ] Compare the datasets and select the most suitable one
+- [ ] Save/reference the original data source
+- [ ] Determine the dataset size
+- [ ] Identify the most important attributes/features
+- [ ] Identify the target/label, e.g. fraud / non-fraud
+- [ ] Determine how the data could be represented as a graph:
+  - What are the nodes?
+  - What are the edges?
+  - What are the node/edge features?
+- [ ] Write a short description for the Dataset section of the proposal
+Note: A detailed exploratory data analysis is not required yet. Only basic information about the dataset is needed for this milestone.
+
+3. Literature Research
+- [ ] Search Google Scholar for papers related to the selected fraud detection problem
+- [ ] Look specifically for graph-based fraud detection research
+- [ ] Prefer studies using the same or a similar dataset/use case
+- [ ] Select at least 2 scientific publications
+- [ ] Save the full title of each publication
+- [ ] Save the publication/PDF/DOI link
+4. Analyse Publication 1
+- [ ] Publication name
+- [ ] Publication link
+- [ ] How was the train/validation/test split performed?
+- [ ] Which machine learning algorithms were used?
+- [ ] Which graph-based methods / GNNs were used, if applicable?
+- [ ] Which evaluation metrics were used?
+  (Precision, Recall, F1, ROC-AUC, PR-AUC, etc.)
+- [ ] Note any particularly interesting findings or methodological choices
+5. Analyse Publication 2
+- [ ] Publication name
+- [ ] Publication link
+- [ ] How was the train/validation/test split performed?
+- [ ] Which machine learning algorithms were used?
+- [ ] Which graph-based methods / GNNs were used, if applicable?
+- [ ] Which evaluation metrics were used?
+- [ ] Note any particularly interesting findings or methodological choices
+6. Final Review & Supervisor Meeting
+- [ ] Make sure all sections of the Project Proposal are completed
+- [ ] Keep the answers short and precise
+- [ ] Check that the relationship between fraud problem → dataset → graph representation is clear
+- [ ] Verify that both publications are valid scientific sources
+- [ ] Check all references and links
+- [ ] Prepare the proposal for discussion with the supervisors
+- [ ] Get feedback on the use case, dataset and planned approach
+- [ ] Make the necessary changes after the meeting
