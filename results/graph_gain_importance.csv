@@ -1,0 +1,55 @@
+Feature,Gain,Feature Type
+Payment Format_ACH,314.4257507324219,Transaction
+Payment Format_Reinvestment,273.6569519042969,Transaction
+Same Account,21.007688522338867,Transaction
+previous_pair_tx_count,19.744688034057617,Graph
+Payment Currency_Saudi Riyal,11.114465713500977,Transaction
+Receiving Currency_Saudi Riyal,10.916736602783203,Transaction
+Amounts Equal,9.219507217407227,Transaction
+sender_previous_out_degree,8.903900146484375,Graph
+Same Bank,8.773741722106934,Transaction
+Receiving Currency_Shekel,7.960578918457031,Transaction
+Payment Currency_Shekel,7.8368425369262695,Transaction
+Payment Format_Credit Card,5.73036003112793,Transaction
+DayOfWeek,5.225676536560059,Transaction
+Receiving Currency_Brazil Real,4.9987616539001465,Transaction
+receiver_previous_in_degree,4.774195671081543,Graph
+Payment Currency_Bitcoin,4.704057693481445,Transaction
+sender_previous_tx_count,4.451833248138428,Graph
+Payment Format_Cheque,4.451354503631592,Transaction
+sender_previous_in_degree,4.15869140625,Graph
+Receiving Currency_Yuan,3.5364136695861816,Transaction
+Amount Received,3.5314669609069824,Transaction
+Receiving Currency_Mexican Peso,3.459266424179077,Transaction
+Same Currency,2.986677885055542,Transaction
+Payment Format_Bitcoin,2.855712652206421,Transaction
+Receiving Currency_Yen,2.781022787094116,Transaction
+Payment Currency_US Dollar,2.7784063816070557,Transaction
+Receiving Currency_US Dollar,2.7259721755981445,Transaction
+Receiving Currency_Euro,2.434968948364258,Transaction
+Payment Currency_Euro,2.4175310134887695,Transaction
+Payment Currency_Mexican Peso,2.3291988372802734,Transaction
+Payment Currency_Yuan,2.2892496585845947,Transaction
+Payment Format_Cash,2.2445671558380127,Transaction
+Amount Paid,2.2432608604431152,Transaction
+receiver_previous_tx_count,2.2000017166137695,Graph
+Log Amount Received,2.0581202507019043,Transaction
+Payment Currency_Yen,1.997756838798523,Transaction
+receiver_previous_out_degree,1.9916800260543823,Graph
+Receiving Currency_Canadian Dollar,1.985897183418274,Transaction
+Payment Currency_Brazil Real,1.9413905143737793,Transaction
+Payment Currency_Swiss Franc,1.9112979173660278,Transaction
+Receiving Currency_Australian Dollar,1.8920499086380005,Transaction
+Payment Currency_Canadian Dollar,1.8655401468276978,Transaction
+Payment Currency_Rupee,1.8649452924728394,Transaction
+Log Amount Paid,1.832289695739746,Transaction
+Receiving Currency_Rupee,1.7854039669036865,Transaction
+Payment Currency_Australian Dollar,1.7716935873031616,Transaction
+Receiving Currency_UK Pound,1.749671459197998,Transaction
+Payment Currency_Ruble,1.7442762851715088,Transaction
+Receiving Currency_Ruble,1.7112655639648438,Transaction
+Hour,1.6957350969314575,Transaction
+Receiving Currency_Bitcoin,1.6492060422897339,Transaction
+Receiving Currency_Swiss Franc,1.4222222566604614,Transaction
+Payment Currency_UK Pound,1.387535572052002,Transaction
+Payment Format_Wire,0.0,Transaction
